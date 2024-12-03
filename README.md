@@ -32,6 +32,8 @@ The game board consists of a river with sections leading to the sea. Players rol
 
 ## Strategies Implemented
 
+When a fish reaches the sea, rolling its color allows moving any remaining fish. Two strategies can be applied:
+
 ### Strategy 1: Move Fish Furthest from the Sea
 
 This strategy prioritizes moving the fish that is furthest from safety, aiming to reduce the risk of any fish being caught.
