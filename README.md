@@ -1,6 +1,6 @@
 # Tempo, Kleine Fische!
 
-![Alt text](images/61P-ynQnAaL._AC_SL1024_.jpg)
+<img src="images/61P-ynQnAaL._AC_SL1024_.jpg" alt="Alt text" height="300">
 
 ## Table of Contents
 
